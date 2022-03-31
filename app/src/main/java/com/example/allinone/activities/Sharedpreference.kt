@@ -1,4 +1,4 @@
-package com.example.allinone
+package com.example.allinone.activities
 
 import android.content.Context
 import android.content.SharedPreferences
@@ -8,6 +8,7 @@ import android.view.View
 import android.widget.Button
 import android.widget.EditText
 import android.widget.TextView
+import com.example.allinone.R
 
 class Sharedpreference : AppCompatActivity() {
     private val sharedPrefFile = "kotlinsharedpreference"

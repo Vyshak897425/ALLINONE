@@ -1,9 +1,10 @@
-package com.example.allinone
+package com.example.allinone.activities
 
 import android.net.Uri
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.MediaController
+import com.example.allinone.R
 import kotlinx.android.synthetic.main.activity_videoplayer.*
 
 class videoplayer : AppCompatActivity() {

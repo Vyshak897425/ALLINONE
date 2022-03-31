@@ -13,16 +13,19 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AllInOne">
         <activity
-            android:name=".Sharedpreference"
+            android:name=".activities.Fragmentss"
             android:exported="false" />
         <activity
-            android:name=".camera"
+            android:name=".activities.Sharedpreference"
             android:exported="false" />
         <activity
-            android:name=".videoplayer"
+            android:name=".activities.camera"
             android:exported="false" />
         <activity
-            android:name=".animation"
+            android:name=".activities.videoplayer"
+            android:exported="false" />
+        <activity
+            android:name=".activities.animation"
             android:exported="false" />
         <activity
             android:name=".MainActivity"

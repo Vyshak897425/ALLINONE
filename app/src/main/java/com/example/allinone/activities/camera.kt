@@ -1,16 +1,16 @@
-package com.example.allinone
+package com.example.allinone.activities
 
 import android.app.Activity
 import android.content.Intent
 import android.content.pm.PackageManager
 import android.graphics.Bitmap
-import android.hardware.SensorPrivacyManager.Sensors.CAMERA
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.provider.MediaStore
 import android.widget.Toast
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
+import com.example.allinone.R
 import kotlinx.android.synthetic.main.activity_camera.*
 
 class camera : AppCompatActivity() {

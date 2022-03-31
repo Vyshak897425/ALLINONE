@@ -1,8 +1,9 @@
-package com.example.allinone
+package com.example.allinone.activities
 
 import android.graphics.drawable.AnimatedVectorDrawable
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.allinone.R
 import kotlinx.android.synthetic.main.activity_animation.*
 
 class animation : AppCompatActivity() {
