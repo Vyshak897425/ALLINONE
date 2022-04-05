@@ -7,8 +7,8 @@
     tools:context=".MainActivity">
 
     <TableLayout
-        android:layout_width="400dp"
-        android:layout_height="495dp"
+        android:layout_width="385dp"
+        android:layout_height="314dp"
         android:layout_marginStart="0dp"
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
@@ -72,7 +72,7 @@
                 android:layout_column="1"
                 android:layout_marginStart="0sp"
                 android:layout_marginLeft="0sp"
-                android:text="FIVE"
+                android:text="Fragments"
                 android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium" />
 
             <Button
@@ -82,7 +82,7 @@
                 android:layout_column="2"
                 android:layout_marginStart="0sp"
                 android:layout_marginLeft="0sp"
-                android:text="SIX"
+                android:text="Accelerometer"
                 android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium" />
         </TableRow>
 
@@ -95,7 +95,7 @@
                 android:layout_column="0"
                 android:layout_marginStart="0sp"
                 android:layout_marginLeft="0sp"
-                android:text="SEVEN"
+                android:text="Bluetooth"
                 android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium" />
 
             <Button
@@ -152,6 +152,14 @@
                 android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium" />
         </TableRow>
     </TableLayout>
+
+    <ImageView
+        android:id="@+id/imageview"
+        android:layout_width="350dp"
+        android:layout_height="350dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="350dp"
+        android:src="@drawable/ic_android_black_24dp" />
 
 
 

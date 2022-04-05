@@ -4,6 +4,8 @@
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
 
     <application
         android:allowBackup="true"
@@ -12,6 +14,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AllInOne">
+        <activity
+            android:name=".activities.Bluetooth"
+            android:exported="false" />
+        <activity
+            android:name=".activities.gyroscope"
+            android:exported="false" />
         <activity
             android:name=".activities.Fragmentss"
             android:exported="false" />
