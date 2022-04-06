@@ -5,6 +5,8 @@
       <map>
         <entry key="..\:/Users/VyshakPC/AndroidStudioProjects/Allinone/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
         <entry key="..\:/Users/VyshakPC/AndroidStudioProjects/Allinone/app/src/main/res/drawable/checktoclose.xml" value="0.145" />
+        <entry key="..\:/Users/VyshakPC/AndroidStudioProjects/Allinone/app/src/main/res/drawable/circle_shape.xml" value="0.1" />
+        <entry key="..\:/Users/VyshakPC/AndroidStudioProjects/Allinone/app/src/main/res/drawable/circular_progress_bar.xml" value="0.196" />
         <entry key="..\:/Users/VyshakPC/AndroidStudioProjects/Allinone/app/src/main/res/drawable/closetocheck.xml" value="0.145" />
         <entry key="..\:/Users/VyshakPC/AndroidStudioProjects/Allinone/app/src/main/res/drawable/ic_android_black_24dp.xml" value="0.1" />
         <entry key="..\:/Users/VyshakPC/AndroidStudioProjects/Allinone/app/src/main/res/drawable/ic_bluetooth_off.xml" value="0.145" />
@@ -16,13 +18,21 @@
         <entry key="..\:/Users/VyshakPC/AndroidStudioProjects/Allinone/app/src/main/res/layout/activity_camera.xml" value="0.22010869565217392" />
         <entry key="..\:/Users/VyshakPC/AndroidStudioProjects/Allinone/app/src/main/res/layout/activity_fragmentss.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/VyshakPC/AndroidStudioProjects/Allinone/app/src/main/res/layout/activity_gyroscope.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/VyshakPC/AndroidStudioProjects/Allinone/app/src/main/res/layout/activity_lightsensor.xml" value="0.1" />
         <entry key="..\:/Users/VyshakPC/AndroidStudioProjects/Allinone/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/VyshakPC/AndroidStudioProjects/Allinone/app/src/main/res/layout/activity_project_one.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/VyshakPC/AndroidStudioProjects/Allinone/app/src/main/res/layout/activity_sharedpreference.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/VyshakPC/AndroidStudioProjects/Allinone/app/src/main/res/layout/activity_videoplayer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/VyshakPC/AndroidStudioProjects/Allinone/app/src/main/res/layout/activity_webview.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/VyshakPC/AndroidStudioProjects/Allinone/app/src/main/res/layout/activity_wifimanager.xml" value="0.264" />
         <entry key="..\:/Users/VyshakPC/AndroidStudioProjects/Allinone/app/src/main/res/layout/fragment_first.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/VyshakPC/AndroidStudioProjects/Allinone/app/src/main/res/layout/fragment_first2.xml" value="0.1" />
         <entry key="..\:/Users/VyshakPC/AndroidStudioProjects/Allinone/app/src/main/res/layout/fragment_second.xml" value="0.2" />
+        <entry key="..\:/Users/VyshakPC/AndroidStudioProjects/Allinone/app/src/main/res/layout/fragment_second2.xml" value="0.1" />
         <entry key="..\:/Users/VyshakPC/AndroidStudioProjects/Allinone/app/src/main/res/layout/fragment_third.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/VyshakPC/AndroidStudioProjects/Allinone/app/src/main/res/layout/fragment_third2.xml" value="0.1" />
         <entry key="..\:/Users/VyshakPC/AndroidStudioProjects/Allinone/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.124" />
+        <entry key="..\:/Users/VyshakPC/AndroidStudioProjects/Allinone/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1525" />
       </map>
     </option>
   </component>

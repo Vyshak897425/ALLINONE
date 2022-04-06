@@ -64,5 +64,19 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this, Bluetooth::class.java)
             startActivity(intent)
         }
+        eight.setOnClickListener{
+            val intent = Intent(this, Wifimanager::class.java)
+            startActivity(intent)
+        }
+        nine.setOnClickListener{
+            val intent = Intent(this, Webview::class.java)
+            startActivity(intent)
+        }
+        ten.setOnClickListener{
+            val intent = Intent(this, ProjectONE::class.java)
+            startActivity(intent)
+        }
+
+
     }
 }

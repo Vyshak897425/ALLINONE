@@ -105,7 +105,7 @@
                 android:layout_column="1"
                 android:layout_marginStart="0sp"
                 android:layout_marginLeft="0sp"
-                android:text="EIGHT"
+                android:text="WIFI"
                 android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium" />
 
             <Button
@@ -115,7 +115,7 @@
                 android:layout_column="2"
                 android:layout_marginStart="0sp"
                 android:layout_marginLeft="0sp"
-                android:text="NINE"
+                android:text="WEBVIEW"
                 android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium" />
         </TableRow>
 
@@ -128,7 +128,7 @@
                 android:layout_column="0"
                 android:layout_marginStart="0sp"
                 android:layout_marginLeft="0sp"
-                android:text="TEN"
+                android:text="Project1"
                 android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium" />
 
             <Button
@@ -138,7 +138,7 @@
                 android:layout_column="1"
                 android:layout_marginStart="0sp"
                 android:layout_marginLeft="0sp"
-                android:text="ELEVEN"
+                android:text="Sensor"
                 android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium" />
 
             <Button
@@ -155,8 +155,8 @@
 
     <ImageView
         android:id="@+id/imageview"
-        android:layout_width="350dp"
-        android:layout_height="350dp"
+        android:layout_width="344dp"
+        android:layout_height="290dp"
         android:layout_marginLeft="30dp"
         android:layout_marginTop="350dp"
         android:src="@drawable/ic_android_black_24dp" />
