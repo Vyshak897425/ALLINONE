@@ -13,10 +13,7 @@ import android.view.ViewGroup
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
 import com.example.allinone.R
-import kotlinx.android.synthetic.main.activity_camera.view.*
 
-import kotlinx.android.synthetic.main.fragment_third.*
-import kotlinx.android.synthetic.main.fragment_third.view.*
 import kotlinx.android.synthetic.main.fragment_third2.*
 import kotlinx.android.synthetic.main.fragment_third2.view.*
 
