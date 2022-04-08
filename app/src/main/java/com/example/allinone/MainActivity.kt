@@ -76,6 +76,10 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this, ProjectONE::class.java)
             startActivity(intent)
         }
+        eleven.setOnClickListener{
+            val intent = Intent(this, LIghtSensor::class.java)
+            startActivity(intent)
+        }
 
 
     }

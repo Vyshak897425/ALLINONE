@@ -10,7 +10,6 @@
     <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
     <uses-permission android:name="android.permission.USE_FINGERPRINT" />
 
-
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -19,8 +18,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AllInOne">
         <activity
-            android:name=".activities.Lightsensor"
+            android:name=".activities.LIghtSensor"
             android:exported="false" />
+
         <activity
             android:name=".activities.ProjectONE"
             android:exported="false" />
